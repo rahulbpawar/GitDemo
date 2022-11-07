@@ -7,5 +7,7 @@ public class GitDemo {
 		System.out.println("first line of code");
 		
 		System.out.println("second line of code");
+		
+		System.out.println("third line of code");
 	}
 }
