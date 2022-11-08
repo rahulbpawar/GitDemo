@@ -10,7 +10,7 @@ public class GitDemo {
 	public static void main(String[] args) {
 		
 		/**
-		 * 
+		 * this code is for demo
 		 */
 		System.out.println("first line of code");
 		
